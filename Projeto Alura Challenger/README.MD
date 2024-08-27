@@ -1,10 +1,9 @@
 <h1 align="center">Challenger 01- Desenvolvimento Pessoal T7 - ONE</h1>
+
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-   
-    <img width="30%" src="/Imagens/Decodificador de texto.png" alt="Imagem da primeira badge do programa ONE - Oracle Next Education">
+    <img width="30%" src="./.github/badge.png" alt="Imagem da primeira badge do programa ONE - Oracle Next Education">
 </div>
-    O objetivo desse Challenge era desenvolver um decodificador de texto em Javascript, onde deveria criptografar um texto e depois descriptografar para o original.
-</p>
+
 
 ## Sobre o desafio
 ### Descrição
