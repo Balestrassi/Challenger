@@ -58,5 +58,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 <p align="center">
-    Feito com muita dificuldade por Victor Balestrassi :wave: <a href="https://instagram.com/balestrassi" target="_blank">Challenge ONE T7</a>
+    Feito com muita dificuldade por Victor Balestrassi :wave: <a href="https://instagram.com/balestrassi" target="_blank">Instagram</a>
 </p>
