@@ -1,7 +1,7 @@
 <h1 align="center">Challenger 01- Desenvolvimento Pessoal T7 - ONE</h1>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img width="30%" src="./.github/badge.png" alt="Imagem da primeira badge do programa ONE - Oracle Next Education">
+    <img width="30%" src="./Imagens/badge.png" alt="Imagem da primeira badge do programa ONE - Oracle Next Education">
 </div>
 
 
